@@ -147,6 +147,4 @@ The experiment titled *“Comparative Analysis of Different Types of Prompting P
 It was observed that **refined, structured prompts consistently produce more accurate, detailed, and higher-quality responses** than naïve prompts.
 Therefore, mastering prompt design is a crucial skill when working with AI systems.
 
----
 
-Would you like me to turn this into a **formatted lab record PDF (with tables and headings neatly aligned)** for printing or submission? I can generate and send it to you instantly.
